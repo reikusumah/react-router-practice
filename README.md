@@ -1,3 +1,6 @@
+Practice project implementation 5th section course from [React Masterclass Course](https://www.udemy.com/course/react-master-class-untuk-semua/) in Udemy.
+This Project is about basic react router.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
